@@ -1,0 +1,7 @@
+{
+  "name": "Edu-Connect",
+  "description": "A next-generation educational app connecting students with teachers and mentors, featuring a digital library, skill-swap marketplace, and a powerful suite of AI tools powered by Gemini to enhance learning and creativity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
